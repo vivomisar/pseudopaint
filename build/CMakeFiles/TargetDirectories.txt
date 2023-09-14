@@ -1,0 +1,3 @@
+/home/vivomisar/Documents/code/pseudopaint/build/CMakeFiles/Pseudopaint.dir
+/home/vivomisar/Documents/code/pseudopaint/build/CMakeFiles/edit_cache.dir
+/home/vivomisar/Documents/code/pseudopaint/build/CMakeFiles/rebuild_cache.dir
