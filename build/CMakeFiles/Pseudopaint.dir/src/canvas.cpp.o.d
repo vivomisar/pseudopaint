@@ -205,4 +205,4 @@ CMakeFiles/Pseudopaint.dir/src/canvas.cpp.o: \
  /usr/include/SDL2/SDL_version.h /usr/include/SDL2/SDL_locale.h \
  /usr/include/SDL2/SDL_misc.h \
  /home/vivomisar/Documents/code/pseudopaint/src/mouse.hpp \
- /usr/include/SDL2/SDL_timer.h
+ /usr/include/SDL2/SDL_render.h /usr/include/SDL2/SDL_timer.h

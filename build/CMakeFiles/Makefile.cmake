@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "/home/vivomisar/Documents/code/pseudopaint/CMakeLists.txt"
-  "CMakeFiles/3.27.4/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.27.4/CMakeSystem.cmake"
+  "CMakeFiles/3.27.5/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.27.5/CMakeSystem.cmake"
   "/usr/lib/cmake/SDL2/SDL2Config.cmake"
   "/usr/lib/cmake/SDL2/SDL2ConfigVersion.cmake"
   "/usr/lib/cmake/SDL2/SDL2Targets-noconfig.cmake"
