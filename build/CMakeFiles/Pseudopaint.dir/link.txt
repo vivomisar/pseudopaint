@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Pseudopaint.dir/src/main.cpp.o CMakeFiles/Pseudopaint.dir/src/canvas.cpp.o CMakeFiles/Pseudopaint.dir/src/mouse.cpp.o -o Pseudopaint  /usr/lib/libSDL2main.a /usr/lib/libSDL2-2.0.so.0.2800.3 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Pseudopaint.dir/Pseudopaint_autogen/mocs_compilation.cpp.o CMakeFiles/Pseudopaint.dir/main.cpp.o CMakeFiles/Pseudopaint.dir/mainwindow.cpp.o -o Pseudopaint  /usr/lib/libQt6Widgets.so.6.5.3 /usr/lib/libQt6Gui.so.6.5.3 /usr/lib/libQt6Core.so.6.5.3 /usr/lib/libGLX.so /usr/lib/libOpenGL.so 

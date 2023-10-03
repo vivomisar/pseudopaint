@@ -1,0 +1,8 @@
+/home/vivomisar/Documents/code/build-Pseudopaint-Desktop-Debug/CMakeFiles/Pseudopaint.dir
+/home/vivomisar/Documents/code/build-Pseudopaint-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/vivomisar/Documents/code/build-Pseudopaint-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/vivomisar/Documents/code/build-Pseudopaint-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/vivomisar/Documents/code/build-Pseudopaint-Desktop-Debug/CMakeFiles/install.dir
+/home/vivomisar/Documents/code/build-Pseudopaint-Desktop-Debug/CMakeFiles/install/local.dir
+/home/vivomisar/Documents/code/build-Pseudopaint-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/vivomisar/Documents/code/build-Pseudopaint-Desktop-Debug/CMakeFiles/Pseudopaint_autogen.dir
