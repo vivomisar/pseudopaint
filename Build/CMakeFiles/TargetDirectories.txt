@@ -1,0 +1,8 @@
+/home/vivomisar/Documents/code/pseudopaint/Build/CMakeFiles/Pseudopaint.dir
+/home/vivomisar/Documents/code/pseudopaint/Build/CMakeFiles/edit_cache.dir
+/home/vivomisar/Documents/code/pseudopaint/Build/CMakeFiles/rebuild_cache.dir
+/home/vivomisar/Documents/code/pseudopaint/Build/CMakeFiles/list_install_components.dir
+/home/vivomisar/Documents/code/pseudopaint/Build/CMakeFiles/install.dir
+/home/vivomisar/Documents/code/pseudopaint/Build/CMakeFiles/install/local.dir
+/home/vivomisar/Documents/code/pseudopaint/Build/CMakeFiles/install/strip.dir
+/home/vivomisar/Documents/code/pseudopaint/Build/CMakeFiles/Pseudopaint_autogen.dir
